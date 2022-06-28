@@ -8,7 +8,7 @@ cascade:
   sidebar:
     show_sidebar_adunit: false
     text_link_label: View recent posts
-    text_link_url: /blog/
+    text_link_url: /random/
 description: "This is a personal blog"
 layout: list-sidebar
 show_author_byline: true
