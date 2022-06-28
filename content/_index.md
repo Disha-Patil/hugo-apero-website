@@ -2,13 +2,13 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Technical repository and personal musings 
+description: 
 image_left: true
 images:
 - img/revoir.jpg
 show_action_link: true
 show_social_links: true
-subtitle: 
+subtitle: Technical repository and personal musings 
 text_align_left: false
 title: 
 type: home
