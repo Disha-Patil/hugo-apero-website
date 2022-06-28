@@ -3,10 +3,10 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Hugo Apéro. Nice to meet you.
+  Hello! नमस्कार!
 ---
 
 <!-- this is a subheadline -->
-Hello there!!! :fr: 
+I am glad you are here.  
 
-The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
+On this site you will find some techincal blogs, some personal musings, some bookmark stuff, a list of talks and courses. 
