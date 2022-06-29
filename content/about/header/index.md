@@ -3,7 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hello! नमस्का!
+  Hello! नमस्कार!
 ---
 
 <!-- this is a subheadline -->
