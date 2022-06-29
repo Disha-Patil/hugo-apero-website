@@ -111,6 +111,7 @@ enableEmoji = true
   #  url = "/about/"
   #  weight = 1
   [[menu.header]]
+    identifier="blog"
     name = "Tech"
     title = "Tech"
     url = "/tech/"
