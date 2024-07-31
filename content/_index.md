@@ -8,7 +8,7 @@ images:
 - img/revoir.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Work portfolio, tech blogs, and personal musings 
+subtitle: Work portfolio, tech blogs, and personal musings!!!!!!!!!
 text_align_left: false
 title: Hello! नमस्कार!
 type: home
