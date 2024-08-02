@@ -125,9 +125,9 @@ enableEmoji = true
     url = "/misc/"
     weight = 2
   [[menu.header]]
-    name = "Eats"
-    title = "Eats"
-    url = "/Eats/"
+    name = "reviews"
+    title = "reviews"
+    url = "/reviews/"
     weight = 3
     
   # Configure footer  
