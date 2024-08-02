@@ -1,14 +1,14 @@
 ---
-action_label: Read More &rarr;
-action_link: /blog
+action_label: more\about\me>
+action_link: /about
 action_type: text
 description: 
 image_left: true
 images:
-- img/jaswand.jpg
+- img/jaswandflower.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Work portfolio, tech blogs, and personal musings!!!!!!!!!
+subtitle: this is disha, i am a data scientist.
 text_align_left: false
 title: Hello! नमस्कार!
 type: home

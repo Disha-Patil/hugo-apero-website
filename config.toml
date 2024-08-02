@@ -32,7 +32,7 @@ enableEmoji = true
   orgLocal = "pune"
   description = "Disha's webpage"
   favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  logo = "/img/jaswand_noback.jpg"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -94,9 +94,13 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://twitter.com/Dishashp"
   [[params.social]]
-      icon      = "rss" # icon name without the 'fa-'
-      icon_pack = "fas"
-      url       = "/tech/index.xml"
+      icon      = "linkedin" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.linkedin.com/in/dishapatil/"
+  #[[params.social]]
+  #    icon      = "rss" # icon name without the 'fa-'
+  #    icon_pack = "fas"
+  #    url       = "/tech/index.xml"
 
 [taxonomies]
   category = "categories"
@@ -116,9 +120,9 @@ enableEmoji = true
     url = "/tech/"
     weight = 1
   [[menu.header]]
-    name = "Pers"
-    title = "Pers"
-    url = "/pers/"
+    name = "Misc"
+    title = "Misc"
+    url = "/misc/"
     weight = 2
   [[menu.header]]
     name = "Eats"
@@ -132,16 +136,16 @@ enableEmoji = true
     title = "License"
     url = "/license/"
     weight = 1
+  #[[menu.footer]]
+  #  name = "Contact"
+  #  title = "Contact form"
+  #  url = "/contact/"
+  #  weight = 2
   [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
+    name = "ReadingList"
+    title = "ReadingList"
+    url = "/ReadingList/"
     weight = 2
-  [[menu.footer]]
-    name = "Collections"
-    title = "Collections"
-    url = "/collections/"
-    weight = 3
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
