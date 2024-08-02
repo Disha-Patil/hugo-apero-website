@@ -5,7 +5,7 @@ action_type: text
 description: 
 image_left: true
 images:
-- img/revoir.jpg
+- img/jaswand.jpg
 show_action_link: true
 show_social_links: true
 subtitle: Work portfolio, tech blogs, and personal musings!!!!!!!!!
