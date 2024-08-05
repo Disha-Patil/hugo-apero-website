@@ -1,5 +1,5 @@
 ---
-action_label: more\about\me>
+action_label: →
 action_link: /about
 action_type: text
 description: 

@@ -1,7 +1,7 @@
 ---
 author: dp
 cascade:
-  author: dp
+  #author: dp
   show_author_byline: true
   show_comments: false
   show_post_date: true
@@ -19,7 +19,7 @@ show_post_date: true
 show_post_thumbnail: true
 show_post_time: true
 sidebar:
-  author: The R Markdown Team @RStudio
+  author: dp
   description: "These are some reviews on books read, movies watched and theatre performances. \n"
   show_sidebar_adunit: false
   text_link_label: 
