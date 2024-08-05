@@ -6,7 +6,7 @@ cascade:
   type: blog
   show_author_byline: false
   show_comments: true
-  show_post_date: true
+  show_post_date: false
   sidebar:
     show_sidebar_adunit: false
     text_link_label: View recent posts
@@ -15,15 +15,19 @@ description: ""
 layout: list-sidebar
 show_author_byline: false
 show_button_links: false
-show_post_date: true
+show_post_date: false
 show_post_thumbnail: true
 sidebar:
   author: dp
-  description: "Space for misc topics\n"
+  description: "Space fro free thought\n
+  
+                A food Journal\n <br>
+                A photo gallery\n<br>
+                A free thought"
   show_sidebar_adunit: true
   text_link_label: 
   text_link_url:
-  title: Miscelleneous Thoughts
+  title: Miscelleneous
 thumbnail_left: true
 title: Random
 ---

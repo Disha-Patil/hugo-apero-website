@@ -6,10 +6,11 @@
 {{ $images := (.Page.Resources.ByType "image") }}
 <ul class="image-gallery">
 {{ range $images }}
-    {{ $resized := .Fill "250x150 q20" }}
+    {{ $resized := .Fit "250x600 q80" }}
         <a href="{{ .Permalink }}" data-lightbox="x" 
         data-title="img">
             <img src="{{ $resized.RelPermalink }}" >
+            <!-- <img src="{{ .RelPermalink }}" > -->
             <!-- <span>{{ .Name }}</span> -->
         </a>
        

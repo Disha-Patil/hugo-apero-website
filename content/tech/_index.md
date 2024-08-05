@@ -19,11 +19,18 @@ show_post_date: true
 show_post_thumbnail: true
 sidebar:
   author: dp
-  description: "This blog contained my experiments in data science field. \n"
+  description: "This blog contained my experiments in data science field. \n
+
+                It has explorations around new ML/AI models.\n
+                Some examples on statistical testing.\n
+                Observation on any python/R or dataviz libraries.\n
+                Notes on any new framework I learn and much more...
+
+                "
   show_sidebar_adunit: true
   text_link_label: 
   text_link_url: /index.xml
-  title: DS/AI/ML
+  title: My Experiments
 thumbnail_left: true
 title: TechBlog
 ---
